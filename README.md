@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello, I'm Gerome 👋
 
-<!--
-**Blitz1r/Blitz1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who enjoys building things and exploring how systems work behind the scenes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Like Working On
+- Web applications  
+- Backend systems & APIs   
+- Network & security concepts  
+- Learning how attacks work (and how to stop them)
+
+---
+
+## Languages I Use
+- JavaScript  
+- Python  
+- Java  
+- C / C++  
+
+---
+
+## Databases
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+---
+
+## Tools & Platforms
+- Node.js  
+- Express  
+- React / Next.js  
+- Wireshark  
+- Nmap  
+
+---
+
+## Currently
+- Studying Network & Information Security  
+- Building small full-stack projects  
+- Practicing SOC & security labs  
+
+---
+
+Thanks for visiting my profile!
