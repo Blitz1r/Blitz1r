@@ -1,12 +1,11 @@
 # Hello, I'm Gerome 👋
 
-I'm a Computer Science student who enjoys building things and exploring how systems work behind the scenes.
+I'm a Computer Science student who enjoys building and learning new things.
 
 ---
 
 ## What I Like Working On
 - Web applications  
-- Backend systems & APIs   
 - Network & security concepts  
 - Learning how attacks work (and how to stop them)
 
