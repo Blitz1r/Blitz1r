@@ -21,7 +21,8 @@ I'm a Computer Science student who enjoys building things and exploring how syst
 ---
 
 ## Databases
-- MySQL  
+- MySQL
+- Supabase
 - PostgreSQL  
 - MongoDB  
 
