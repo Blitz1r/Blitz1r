@@ -7,7 +7,7 @@ I'm a Computer Science student who enjoys building and learning new things.
 ## What I Like Working On
 - Web applications  
 - Network & security concepts  
-- Learning how attacks work (and how to stop them)
+- Learning how attacks work
 
 ---
 
