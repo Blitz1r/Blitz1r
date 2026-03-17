@@ -49,6 +49,6 @@ TruthFlow is a lightweight operations dashboard for running an inventory-driven 
 Why it matters: when inventory and order data live in scattered spreadsheets or tools, mistakes compound fast (wrong counts, missed deliveries, slow fulfillment, unclear accountability). TruthFlow brings those workflows into a single source of truth with clear statuses, exception visibility, and an audit-friendly flow—so decisions are faster, handoffs are smoother, and records stay consistent.
 
 Miro Security Posture Analyzer - https://mirothonleak.vercel.app
-Miro Security Posture Analyzer helps you quickly assess a Miro board’s security posture by scanning for common exposure and risk signals, then summarizing what to fix first. It’s important because collaboration boards often contain sensitive notes, links, and credentials—and a single misconfigured sharing setting can unintentionally make that data accessible.
+Miro Security Posture Analyzer helps you quickly assess a Miro board’s security posture by scanning for common exposure and risk signals, then summarizing what to fix first. It’s important because collaboration boards can contain sensitive notes, links, and credentials—and a single misconfigured sharing setting can unintentionally make that data accessible.
 
 Thanks for visiting my profile!
